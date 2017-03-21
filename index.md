@@ -8,16 +8,19 @@ Os arquivos estão distribuídos conforme as unidades e datas.
 
 ## Unidade I
 
-[Arquivo 1](https://www.4shared.com/web/preview/pdf/kNNGj_tXei?). 
-<p><a href="http://www.4shared.com/web/preview/pdf/zumIxCUFce" target="_blank">Tasks form</a></p>
+<!-- [Arquivo 1](https://www.4shared.com/web/preview/pdf/kNNGj_tXei?). -->
+<p><a href="https://www.4shared.com/web/preview/pdf/kNNGj_tXei?" target="_blank">Arquivo 1</a></p>
+<!-- <p><a href="http://www.4shared.com/web/preview/pdf/zumIxCUFce" target="_blank">Tasks form</a></p> -->
 
 ## Unidade II
 
-[Arquivo 1](https://www.4shared.com/web/preview/pdf/kNNGj_tXei?). 
+<!-- [Arquivo 1](https://www.4shared.com/web/preview/pdf/kNNGj_tXei?). --> 
+<p><a href="https://www.4shared.com/web/preview/pdf/kNNGj_tXei?" target="_blank">Arquivo 1</a></p>
 
 ## Unidade III
 
-[Arquivo 1](https://www.4shared.com/web/preview/pdf/kNNGj_tXei?). 
+<!--[Arquivo 1](https://www.4shared.com/web/preview/pdf/kNNGj_tXei?). --> 
+<p><a href="https://www.4shared.com/web/preview/pdf/kNNGj_tXei?" target="_blank">Arquivo 1</a></p>
 
 
 <!-- colocar links:  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
