@@ -23,7 +23,7 @@ Os arquivos estão distribuídos conforme as unidades e datas.
 negrito: **palavra
 comentario <!-- e -->
 
-```markdown
+<!-- ```markdown
 Syntax highlighted code block
 
 # Header 1
